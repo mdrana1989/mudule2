@@ -2,7 +2,7 @@
   .blog{
     margin-left: 20px;
     width: 90%;
-    height: 520px;
+    height: 550px;
     grid-template-columns:repeat(2,minmax(0,1fr)) !important;
   }
   h3{
